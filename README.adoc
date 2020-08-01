@@ -1,0 +1,1 @@
+== Sample Terraform/AWS project template 
